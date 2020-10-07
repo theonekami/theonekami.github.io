@@ -1,9 +1,13 @@
+body {
+	background-color: #2e2d32;
+}
+
 h1 {
 	text-align: center;
 	color: blue;
 	font-family: Ink Free;
 }
-h1{
+h1 {
 	border-style: none none solid none; 
 	border-width: 1px;
 	border-color: black;
