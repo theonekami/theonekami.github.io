@@ -1,14 +1,12 @@
 body {
 	background-color: #0e4023;
 }
-
 .face{
 	border-style: solid;
 	border-width: 2px;
 	border-color:black;
 	
 }
-
 h1 {
 	text-align: center;
 	color: blue;
@@ -33,7 +31,6 @@ h1 {
 }
 li {
 	float:left;
-	
 }
 li a {
   display: block;
@@ -41,11 +38,32 @@ li a {
   text-align: center;
   padding: 14px 16px;
 }
-
 li a:hover {
 	background-color: #111;
 }
 
 .active {
 	background-color: #321d5c;
+}
+.overlay{
+	display: flex;
+	padding-top: 10px;
+	flex-direction: row;
+	align-content: stretch
+}
+.Face_me {
+	float:left;	
+	margin-right: 10px;
+}
+.Face_me,.About_Text{
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+.About_Text {
+	font-size:20px;
+	flex-grow:1;
+	padding: 10px;
+	background-color: #f1f1f1;
 }
