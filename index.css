@@ -1,5 +1,5 @@
 body {
-	background-color: #2e2d32;
+	background-color: #0e4023;
 }
 
 h1 {
@@ -7,8 +7,29 @@ h1 {
 	color: blue;
 	font-family: Ink Free;
 }
-h1 {
+.TiTle {
 	border-style: none none solid none; 
-	border-width: 1px;
+	border-width: 4px;
 	border-color: black;
+	background-color: #708275;
+	margin: 0px -25px 25px;
 }
+.Top_menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width:100%;
+	overflow: hidden;
+	background-color: #7fa180;
+
+}
+li {
+	float:left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+}
+
