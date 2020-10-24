@@ -1,5 +1,5 @@
 body {
-	background-color: #0e4023;
+	background-color: #3b5249;
 }
 
 .face{
@@ -11,14 +11,14 @@ body {
 
 h1 {
 	text-align: center;
-	color: blue;
+
 	font-family: Ink Free;
 }
 .TiTle {
 	border-style: none none solid none; 
 	border-width: 4px;
 	border-color: black;
-	background-color: #708275;
+	background-color: #519872;
 	background-size:cover;
 	margin: 0px 0px 25px;
 }
@@ -28,7 +28,7 @@ h1 {
 	padding: 0;
 	width:100%;
 	overflow: hidden;
-	background-color: #7fa180;
+	background-color: #382933;
 
 }
 li {

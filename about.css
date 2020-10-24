@@ -1,50 +1,4 @@
-body {
-	background-color: #0e4023;
-}
-.face{
-	border-style: solid;
-	border-width: 2px;
-	border-color:black;
-	
-}
-h1 {
-	text-align: center;
-	color: blue;
-	font-family: Ink Free;
-}
-.TiTle {
-	border-style: none none solid none; 
-	border-width: 4px;
-	border-color: black;
-	background-color: #708275;
-	background-size:cover;
-	margin: 0px 0px 25px;
-}
-.Top_menu {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	width:100%;
-	overflow: hidden;
-	background-color: #7fa180;
 
-}
-li {
-	float:left;
-}
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-}
-li a:hover {
-	background-color: #111;
-}
-
-.active {
-	background-color: #321d5c;
-}
 .overlay{
 	display: flex;
 	padding-top: 10px;
@@ -60,7 +14,6 @@ li a:hover {
 	border-width: 2px;
 	border-color: black;
 }
-
 .About_Text {
 	font-size:20px;
 	flex-grow:1;
