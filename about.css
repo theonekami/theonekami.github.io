@@ -1,22 +1,29 @@
 
 .overlay{
-	display: flex;
+	display: block;
 	padding-top: 10px;
-	flex-direction: row;
+
 	align-content: stretch
 }
 .Face_me {
 	float:left;	
 	margin-right: 10px;
 }
-.Face_me,.About_Text{
+.Face_me{
 	border-style: solid;
 	border-width: 2px;
 	border-color: black;
 }
 .About_Text {
 	font-size:20px;
-	flex-grow:1;
 	padding: 10px;
-	background-color: #f1f1f1;
+	background-color: none;
+	color:#99ff99;
+}
+.About_Text a:link {
+	color:#33ccff
+}
+
+.About_Text a:visited {
+	color:#33ccff
 }
