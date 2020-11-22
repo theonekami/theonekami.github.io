@@ -1,25 +1,19 @@
 .sitemap {
-	display: flex;
+	display: block;
 	margin-left:auto;
 	margin-right:auto;
 	width:50%;
+
+
+	
 }
 
 .card {
-	margin-left:auto;
-	margin-right:auto;
-	flex-grow: 1;
+	display: inline-block;
+	margin: auto;
+}
+.card p {
 	color:#99ff99;
 	text-align:center;
-	font-size:20px;
-
-}
-.card a:link {
-	color:#99ff99;
-	text-decoration: none;
-}
-
-.card a:visited {
-	color:#99ff99;
-	text-decoration: none;
+	font-size:20px
 }
