@@ -3,7 +3,7 @@
 	display: flex;
 	padding-top: 10px;
 	flex-direction: row;
-
+	align-content: stretch
 }
 .Face_me {
 	float:left;	
