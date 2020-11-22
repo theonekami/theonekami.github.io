@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: #3b5249;
+	background-color: #015249;
 }
 
 .face{
@@ -17,16 +17,12 @@ body {
 
 h1 {
 	text-align: center;
-
+	font-size: 23px;
 	font-family: Ink Free;
 }
 .TiTle {
-	border-style: none none solid none; 
-	border-width: 4px;
-	border-color: black;
-	background-color: #519872;
-	background-size:cover;
-	margin: 0px 0px 25px 0px;
+
+
 }
 .Top_menu {
 	list-style-type: none;
@@ -34,7 +30,8 @@ h1 {
 	padding: 0;
 	width:100%;
 	overflow: hidden;
-	background-color: #382933;
+	background-color: #011618
+	;
 
 }
 li {
@@ -46,6 +43,7 @@ li a {
   color: white;
   text-align: center;
   padding: 14px 16px;
+  
 }
 
 li a:hover {
