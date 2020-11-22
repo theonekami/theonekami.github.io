@@ -6,16 +6,16 @@
 	align-content: stretch
 }
 .Face_me {
-	float:left;	
+
+	display: inline-block;
 	margin-right: 10px;
-}
-.Face_me{
+	margin-left: 10px;
 	border-style: solid;
 	border-width: 2px;
 	border-color: black;
 }
 .About_Text {
-	float:right;
+	display: inline-block;
 	font-size:20px;
 	padding: 10px;
 	background-color: none;
