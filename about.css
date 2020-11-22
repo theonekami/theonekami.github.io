@@ -4,7 +4,8 @@
 	padding-top: 10px;
 	margin-left:auto;
 	margin-right:auto;
-	align-content: stretch
+	align-content: stretch;
+	overflow:auto;
 }
 .Face_me {
 	height:50%;
