@@ -1,0 +1,18 @@
+.arts {
+	display: inline;
+	width:300;
+	height:300;
+	margin:10px;
+}
+.artv {
+	display: inline;
+	width:300;
+	height:600;
+	margin:10px;
+}
+.arth {
+	display: inline;
+	width:600;
+	height:400;
+	margin:10px;
+}
