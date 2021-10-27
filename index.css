@@ -35,12 +35,14 @@ body {
 	padding: 0;
 	width:100%;
 	overflow: hidden;
-	background-color: #011618
-	;
+	background-color: #011618;
+	
 
 }
+
 li {
 	float:left;
+	
 	
 }
 li a {
